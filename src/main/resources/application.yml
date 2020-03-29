@@ -1,0 +1,14 @@
+thrid:
+  login:
+    gitee-client-id: cd5cdc2b176e4987b835135b1035f28e1ec05536ef3f5e33c39c704ed8499b03
+    gitee-screct: cf01372166126c64f406983dfddc14e44ded026807fbab4f18301516d157b6e7
+    gitee-call-back-url: http://ezfeya.natappfree.cc/apiggy/user/login/gitee/callback
+    open-wx-client-id:
+    open-wx-screct:
+    open-wx-call-back-url:
+    public-wx-token: tianjingle
+    public-wx-screct:
+    app-id: wxdc1a0fca5ed27731
+    appSecre: ac57fab1e553323d5bd584f97d31511a
+    fail-login-page: localhost:9901/fail/page
+    success-login-page: localhost
